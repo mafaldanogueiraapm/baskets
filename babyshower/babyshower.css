@@ -95,3 +95,12 @@ background-color: rgb(224, 187, 212);
     text-decoration: none;
     border: 2px dashed white;
 }
+
+.option-link {
+        text-decoration: none;
+        color: #fffcfc !important;
+}
+
+.sm-ft {
+    font-size: 8px;
+}
